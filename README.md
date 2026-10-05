@@ -1,2 +1,19 @@
-# restaurant-reservation-management-system
-Restaurant reservation management system
+# Restaurant Reservation Management System
+
+## Description
+
+## Objective
+
+## Features
+
+## Technology Stack
+
+## Architecture
+
+## Testing
+
+## CI/CD
+
+## Project Plan
+
+## Documentation
